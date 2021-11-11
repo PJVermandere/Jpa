@@ -1,0 +1,1 @@
+insert into artikels VALUES (null, 'kruiden', 1.2, 1.5)
