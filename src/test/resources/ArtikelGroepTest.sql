@@ -1,0 +1,1 @@
+insert into artikelgroepen values (null, 'testGroep'),(null, 'testGroep1'),(null, 'testGroep2');
